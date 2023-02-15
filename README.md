@@ -1,4 +1,6 @@
 # Bootcamp GFT Quality Assurance DIO for Woman
+<div align="center"><img height="200em" src="https://hermes.digitalinnovation.one/tracks/3ae0666b-ad40-4952-be45-5b308a77e360.png"/></div>
+
 https://web.dio.me/track/gft-quality-assurance-para-mulheres
 
 
